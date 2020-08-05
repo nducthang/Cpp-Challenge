@@ -11,7 +11,7 @@ Nội dung khóa học:
 3. <a href ="./Basic/3">Hàm<a/><br/>
 4. <a href ="./Basic/4">Ôn tập tổng hợp 1<a/><br/>
 5. <a href ="./Basic/5">Mảng 1 chiều<a/><br/>
-6. Mảng đa chiều
+6. <a href ="./Basic/6">Mảng đa chiều</a><br/>
 7. Chuỗi ký tự
 8. Con trỏ
 9. File và các thao tác trên tập tin
