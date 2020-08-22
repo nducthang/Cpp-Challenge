@@ -13,8 +13,9 @@ Nội dung khóa học:
 5. <a href ="./Basic/5">Mảng 1 chiều<a/><br/>
 6. <a href ="./Basic/6">Mảng đa chiều</a><br/>
 7. <a href ="./Basic/7">Chuỗi ký tự</a><br/>
-8. Con trỏ
-9. File và các thao tác trên tập tin
+8. <a href ="./Basic/8">Con trỏ </a><br/>
+9. Các kiểu dữ liệu tự định nghĩa <br/>
+10. File và các thao tác trên tập tin
 # OOP
 
 # STL
