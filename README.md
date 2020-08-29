@@ -15,7 +15,5 @@ Nội dung khóa học:
 7. <a href ="./Basic/7">Chuỗi ký tự</a><br/>
 8. <a href ="./Basic/8">Con trỏ </a><br/>
 9. <a href ="./Basic/9">Các kiểu dữ liệu tự định nghĩa </a><br/>
-10. File và các thao tác trên tập tin
-# OOP
-
+10. <a href ="./Basic/10">File và các thao tác trên tập tin</a><br/>
 # STL
