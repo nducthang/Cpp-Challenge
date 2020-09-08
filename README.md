@@ -17,3 +17,4 @@ Nội dung khóa học:
 9. <a href ="./Basic/9">Các kiểu dữ liệu tự định nghĩa </a><br/>
 10. <a href ="./Basic/10">File và các thao tác trên tập tin</a><br/>
 # STL
+1. <a href="./STL/1">Các khái niệm cơ bản về thuật toán</a><br/>
