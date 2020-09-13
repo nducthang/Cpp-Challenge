@@ -18,4 +18,4 @@ Nội dung khóa học:
 10. <a href ="./Basic/10">File và các thao tác trên tập tin</a><br/>
 # STL
 1. <a href="./STL/1">Các khái niệm cơ bản về thuật toán</a><br/>
-2. <a href="./STL/2">Standard Template Libarary</a><br/>
+2. <a href="./STL/2">Standard Template Library</a><br/>
