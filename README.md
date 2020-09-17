@@ -22,3 +22,4 @@ Nội dung khóa học:
 2. <a href="./STL/2">Standard Template Library</a><br/>
 # Algorithm
 1. <a href="./Algorithm/1">Phương pháp Quay lui, Nhánh cận</a><br/>
+2. <a href="./Algorithm/2">Quy hoạch động</a><br/>
