@@ -25,3 +25,4 @@ Nội dung khóa học:
 2. <a href="./Algorithm/2">Quy hoạch động</a><br/>
 3. <a href="./Algorithm/3">Luyện tập phương pháp quay lui [Onlinejudge]</a><br/>
 4. <a href="./Algorithm/4">Luyện tập tổng hợp</a><br/>
+5. <a href="./Algorithm/5">Thuật toán tham lam, chia để trị</a><br/>
