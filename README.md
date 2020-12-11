@@ -24,3 +24,4 @@ Nội dung khóa học:
 1. <a href="./Algorithm/1">Phương pháp Quay lui, Nhánh cận</a><br/>
 2. <a href="./Algorithm/2">Quy hoạch động</a><br/>
 3. <a href="./Algorithm/3">Luyện tập phương pháp quay lui [Onlinejudge]</a><br/>
+4. <a href="./Algorithm/4">Luyện tập tổng hợp</a><br/>
