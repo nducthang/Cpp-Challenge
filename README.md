@@ -30,3 +30,4 @@ Nội dung khóa học:
 1. <a href="./Exam/001">[HSG Tỉnh 9] Sở giáo dục tỉnh Đồng Tháp (2017-2018)</a><br/>
 2. <a href="./Exam/002">[HSG Tỉnh 9] Sở giáo dục tỉnh Đồng Tháp (2016-2017)</a><br/>
 3. <a href="./Exam/003">[HSG Tỉnh 9] Sở giáo dục tỉnh Lâm Đồng (2010-2011)</a><br/>
+4. <a href="./Exam/004">[HSG Tỉnh 9] Sở giáo dục và đào tạo Hà Nội (2012-2013)</a><br/>
