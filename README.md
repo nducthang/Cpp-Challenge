@@ -1,4 +1,4 @@
-# Cpp-Challenge
+﻿# Cpp-Challenge
 - Tác giả: Nguyễn Đức Thắng
 - Đối tượng: Phù hợp với tất cả các đối tượng, học sinh luyện thi học sinh giỏi, sinh viên bắt đầu học lập trình cho đến luyện thi olympic tin học.
 - Nội dung khóa học: cung cấp kiến thức từ cơ bản đến nâng cao về ngôn ngữ C++ và thuật toán, các kiến thức về hướng đối tượng, cấu trúc dữ liệu và giải thuật.
@@ -31,3 +31,4 @@ Nội dung khóa học:
 2. <a href="./Exam/002">[HSG Tỉnh 9] Sở giáo dục tỉnh Đồng Tháp (2016-2017)</a><br/>
 3. <a href="./Exam/003">[HSG Tỉnh 9] Sở giáo dục tỉnh Lâm Đồng (2010-2011)</a><br/>
 4. <a href="./Exam/004">[HSG Tỉnh 9] Sở giáo dục và đào tạo Hà Nội (2012-2013)</a><br/>
+5. <a href="./Exam/005">[Tin học trẻ] Tỉnh An Giang 2018</a><br/>
