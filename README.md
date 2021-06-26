@@ -28,6 +28,7 @@ Nội dung khóa học:
 4. <a href="./Algorithm/4">Luyện tập tổng hợp</a><br/>
 5. <a href="./Algorithm/5">Thuật toán tham lam, chia để trị</a><br/>
 6. <a href="./Algorithm/6">Quy hoạch động vị trí cấu hình</a><br/>
+7. <a href="./Algorithm/7">Quy hoạch động trạng thái</a><br/>
 # Kiểm tra
 1. <a href="./Exam/001">[HSG Tỉnh 9] Sở giáo dục tỉnh Đồng Tháp (2017-2018)</a><br/>
 2. <a href="./Exam/002">[HSG Tỉnh 9] Sở giáo dục tỉnh Đồng Tháp (2016-2017)</a><br/>
