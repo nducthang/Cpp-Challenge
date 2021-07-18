@@ -1,0 +1,38 @@
+const
+   N =      20000;
+   tf='inp.12';
+
+var
+   a: array[1..100001] of longint;
+
+procedure sinh;
+var i,k: longint;
+begin
+   for i:=1 to n do
+   begin
+      a[i]:=random(3);
+      if a[i]>0 then
+      begin
+         k:=i div 3+1;
+         a[i]:=k*(k+1) div 2
+      end else a[i]:=trunc(random*100000000);
+      {a[i]:=trunc(random*100000000);}
+   end;
+end;
+
+procedure viet;
+var i: longint;
+    f: text;
+begin
+   assign(f,tf); rewrite(f);
+   writeln(f,N);
+   for i:=1 to N do writeln(f,a[i]);
+   close(f);
+end;
+
+
+begin
+   randomize;
+   sinh;
+   viet;
+end.
